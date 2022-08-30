@@ -1,2 +1,0 @@
-file "client" and "main" is socket communicate
-in directory "ThreadPool" is "Thread factory" and four method for create thread pool
